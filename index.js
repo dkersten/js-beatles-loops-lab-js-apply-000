@@ -20,6 +20,7 @@ function johnLennonFacts(jFacts) {
   return jFacts;
 }
 
-function theBeatlesPlay() {
+function theBeatlesPlay(num) {
+  var emptArray = [];
   
 }
