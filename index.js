@@ -12,5 +12,8 @@ theBeatlesPlay(musicians, instruments);
 
 
 function johnLennonFacts(jFacts) {
-  while (v)
+  var i = 0;
+  while (i < jFacts) {
+    
+  }
 }
