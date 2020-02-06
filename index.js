@@ -5,7 +5,7 @@ const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 function theBeatlesPlay(arrayM, arrayI) {
   var emptArray;
   var i;
-   for (i = 0; i < mus.length; i++) {
+   for (i = 0; i < arrayM.length; i++) {
      emptArray += `"${arrayM[i]} plays ${arrayI[i]}"`;
    }
    return emptArray;
