@@ -22,5 +22,9 @@ function johnLennonFacts(jFacts) {
 
 function theBeatlesPlay(num) {
   var emptArray = [];
-  
+  var i = 0;
+  do {
+    emptArray.push("I love the Beatles");
+    i++;
+  } while (i < num)
 }
