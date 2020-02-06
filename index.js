@@ -3,7 +3,7 @@
 // const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 function theBeatlesPlay(arrayM, arrayI) {
-  var emptArray;
+  var emptArray = [];
    for ( var i = 0; i < arrayM.length; i++) {
      emptArray.push(`${arrayM[i]} plays ${arrayI[i]}`);
    }
