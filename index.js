@@ -6,7 +6,7 @@ function theBeatlesPlay(arrayM, arrayI) {
   var emptArray;
   var i;
    for (i = 0; i < arrayM.length; i++) {
-     emptArray += `'${arrayM[i]} plays ${arrayI[i]}', `;
+     emptArray += `${arrayM[i]} plays ${arrayI[i]} `;
    }
    return emptArray;
 }
