@@ -11,3 +11,6 @@ function theBeatlesPlay(arrayM, arrayI) {
 theBeatlesPlay(musicians, instruments);
 
 
+function johnLennonFacts(jFacts) {
+  while ()
+}
